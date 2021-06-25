@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Backup\quick\quick\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-06-20T07:08:25.9895147Z;True|2021-06-16T12:06:09.9558358+03:00;False|2021-06-16T12:03:46.6820531+03:00;False|2021-06-16T12:03:11.9870760+03:00;True|2021-06-07T11:10:38.9708004+03:00;True|2021-06-07T11:10:29.4189357+03:00;True|2021-06-02T22:39:35.0623388+03:00;</History>
+  </PropertyGroup>
+</Project>

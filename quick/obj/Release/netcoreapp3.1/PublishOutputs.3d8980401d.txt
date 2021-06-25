@@ -1,0 +1,13 @@
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.exe
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.dll
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.deps.json
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.runtimeconfig.json
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.pdb
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.Odbc.dll
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Backup\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll

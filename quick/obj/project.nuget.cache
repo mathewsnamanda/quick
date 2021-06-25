@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ILkUb8jdTDYmmB1b7RgglBex6niQ63UUaj52oLR9V5QQBCSZfYBLPGWw3DpVd9fb+s5RHDyW4pDjJsHW8LvZZw==",
+  "success": true,
+  "projectFilePath": "E:\\Backup\\quick\\quick\\quick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Namanda\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Namanda\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Namanda\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

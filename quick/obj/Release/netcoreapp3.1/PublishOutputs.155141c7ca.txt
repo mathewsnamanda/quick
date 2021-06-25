@@ -1,0 +1,13 @@
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.exe
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.dll
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.deps.json
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.runtimeconfig.json
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\quick.pdb
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.Odbc.dll
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Namanda\Desktop\quick\quick\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
